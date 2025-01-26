@@ -6,4 +6,4 @@
 
 # Escritorio,Tablet Y Movil:
 
-![Imagen](https://imgur.com/ZryP8KC)
+![Imagen](https://i.imgur.com/ZryP8KC.png)
