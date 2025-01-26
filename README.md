@@ -1,4 +1,4 @@
-# [Calculadora](https://davidfrontenddev.github.io/Calculadora/)
+# [🖩 Calculadora](https://davidfrontenddev.github.io/Calculadora/)
 
 - Proyecto de desarollar una calculadora funcional con HTML + CSS + JS.
 - Responsive design.
