@@ -18,8 +18,10 @@ main {
 h1 {
   margin-top: 5px;
   color: #2e8b57;
+  background-color: #2d2d2d;
 }
 .container {
+  background-color: #2d2d2d;
   border: 1px solid #454545;
   display: flex;
   justify-content: start;
@@ -30,6 +32,7 @@ h1 {
 input[type="text"] {
   background-color: #61bc84;
   padding: 10px;
+  color: white;
 }
 .buttons-container {
   display: grid;
@@ -39,6 +42,7 @@ button {
   background-color: #2e8b57;
   padding: 25px;
   font-weight: bold;
+  font-size: medium;
 }
 button:hover {
   background-color: #345e37;
