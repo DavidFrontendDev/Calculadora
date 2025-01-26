@@ -6,7 +6,7 @@ botones.forEach((boton) => {
     try {
       if (valorBoton === "0" && pantalla.value === "") {
         return; // Saltamos este caso.
-      } else if (valorBoton === "," && pantalla.value === "") {
+      } else if (valorBoton === "." && pantalla.value === "") {
         return; // Saltamos este caso.
       } else if (valorBoton === "AC") {
         pantalla.value = "";
