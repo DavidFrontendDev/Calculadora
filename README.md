@@ -6,4 +6,4 @@
 
 # Escritorio,Tablet Y Movil:
 
-[![Imagen](https://i.imgur.com/ZryP8KC.png)](https://davidfrontenddev.github.io/Calculadora/)
+[![Imagen](https://i.imgur.com/80N6AM2.png)](https://davidfrontenddev.github.io/Calculadora/)
